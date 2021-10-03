@@ -31,11 +31,9 @@ https://github.com/maxcli/AngularLearning.git
 
 
 add to git : https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
-
+class : 
 https://app.pluralsight.com/course-player?clipId=5fe5b64e-2200-4a6c-8056-a48c4b239be1
-peter.clift@outlook.com
-React@2coder  - plursight
-
+ 
 sample code : git clone https://github.com/DeborahK/Angular-GettingStarted.git
 
  
